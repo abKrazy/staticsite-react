@@ -1,3 +1,6 @@
+Building your first static site using React and Azure Static Web Apps
+https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?WT.mc_id=staticwebapps-docs-cxa&tabs=react
+
 # ReactBasic
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
